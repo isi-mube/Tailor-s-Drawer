@@ -1,6 +1,6 @@
 # Tailor's drawer
 
-A messy repo. It maay contain useful functions, libraries, templates, functions, guide...
+A messy repo. It may contain useful functions, libraries, templates, functions, guide...
 
 ______________________
 ### **notes** |
