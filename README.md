@@ -1,12 +1,12 @@
 # Tailor's drawer
 
-A messy repo. It may contain useful functions, libraries, templates, functions, guide...
+A messy repo. It may contain useful functions, libraries, templates, functions, guides...
 
 ______________________
 ### **notes** |
 * basics: [click_me](https://github.com/isi-mube/tailor-s-drawer/blob/main/notes/Week1%20-%20Notes%20-%20IMB.ipynb)
 * statistics, plots & machine learning: [click_me](https://github.com/isi-mube/tailor-s-drawer/blob/main/notes/Week1%20-%20Notes%20-%20IMB.ipynb)
-* encoding & linear regression metric: [click_me](shttps://github.com/isi-mube/tailor-s-drawer/blob/main/notes/Week2%20-%20Notes%20-%20IMB.ipynb)
+* encoding & linear regression metric: [click_me](https://github.com/isi-mube/tailor-s-drawer/blob/main/notes/Week2%20-%20Notes%20-%20IMB.ipynb)
 
 ______________________
 ### **easy** |
