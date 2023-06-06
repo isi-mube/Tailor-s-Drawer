@@ -15,7 +15,7 @@ ______________________
 * encoding & linear regression metric: [click_me](https://github.com/isi-mube/tailor-s-drawer/blob/main/notes/Week2%20-%20Notes%20-%20IMB.ipynb)
 
 ______________________
-### **guides** | sql, 
+### **guides** | sql, computer vision, opencv, scikit-image, data science
 * how-to-sql: [click me](https://github.com/isi-mube/tailor-s-drawer/blob/main/How-To-SQL.ipynb)
-* microsoft-data-science-for-beginners: [click_me](https://github.com/isi-mube/tailor-s-drawer/tree/main/Data-Science-For-Beginners)
 * computer-vision-copencv-scikit-image: [click_me](https://github.com/isi-mube/tailor-s-drawer/blob/main/ComputerVision/lines_edges_and_colors.ipynb)
+* microsoft-data-science-for-beginners: [click_me](https://github.com/isi-mube/tailor-s-drawer/tree/main/Data-Science-For-Beginners)
